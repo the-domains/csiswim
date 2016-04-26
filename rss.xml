@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CSIswim]]></title>
         <description><![CDATA[CSIswim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/csiswim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 15:46:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 15:47:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/csiswim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda2c8ee-d34b-407d-a939-04660b41306c.jpg">]]></description>
-            <link>undefinedwelcome-to-the-future-home-of-csi/index.html</link>
+            <link>https://thegrid.ai/csiswim/welcome-to-the-future-home-of-csi/index.html</link>
             <guid isPermaLink="false">1a3133d9-85e9-49f1-b00a-6e3f65f6f267</guid>
-            <pubDate>Tue, 26 Apr 2016 15:46:23 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 15:46:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
