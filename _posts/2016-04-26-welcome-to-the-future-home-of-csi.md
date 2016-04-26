@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to the future home of CSI.
-datePublished: '2016-04-26T15:46:23.894Z'
-dateModified: '2016-04-26T15:46:11.096Z'
+datePublished: '2016-04-26T15:46:54.111Z'
+dateModified: '2016-04-26T15:46:46.764Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-26-welcome-to-the-future-home-of-csi.md
 published: true
+starred: true
 url: welcome-to-the-future-home-of-csi/index.html
 _type: Article
 
